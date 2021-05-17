@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyExchangeSample", "KeyExchangeSample.csproj", "{797CCEE1-EBA4-4557-89AD-8E1EC8EF1A41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{797CCEE1-EBA4-4557-89AD-8E1EC8EF1A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797CCEE1-EBA4-4557-89AD-8E1EC8EF1A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797CCEE1-EBA4-4557-89AD-8E1EC8EF1A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797CCEE1-EBA4-4557-89AD-8E1EC8EF1A41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC9A0C1-B3B8-440D-8749-AF147AEE1A69}
+	EndGlobalSection
+EndGlobal
